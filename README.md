@@ -15,7 +15,7 @@ iii. Launch minecraft with forge
 
 i. Set a keybind in controls for saving the gui
 <br/>
-ii. Find the auction that you want to dupe
+ii. Find the auction that you want to dupe or an item from the profile viewer
 <br/>
 iii. Click the save gui button or press the keybind you set
 <br/>
